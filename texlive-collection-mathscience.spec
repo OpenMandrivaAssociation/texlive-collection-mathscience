@@ -1,6 +1,6 @@
 Name:		texlive-collection-mathscience
 Version:	64985
-Release:	1
+Release:	2
 Summary:	Mathematics, natural sciences, computer science packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/collection-mathscience
