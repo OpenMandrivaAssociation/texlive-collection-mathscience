@@ -3,7 +3,7 @@ Version:	64985
 Release:	2
 Summary:	Mathematics, natural sciences, computer science packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/collection-mathscience
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/collection-mathscience
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-mathscience.r%{version}.tar.xz
 BuildArch:	noarch
